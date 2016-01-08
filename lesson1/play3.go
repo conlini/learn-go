@@ -1,5 +1,6 @@
 package main
 
+// functions and retunrs
 import (
 	"fmt"
 )

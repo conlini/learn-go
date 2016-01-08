@@ -1,5 +1,6 @@
 package main
 
+// vars implicit vs explicit, local vs global
 import (
 	"fmt"
 )

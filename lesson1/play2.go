@@ -1,5 +1,6 @@
 package main
 
+// basics functions
 import (
 	"fmt"
 	"math/rand"

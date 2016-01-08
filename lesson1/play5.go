@@ -1,5 +1,7 @@
 package main
 
+// vars const prints
+
 import (
 	"fmt"
 )
